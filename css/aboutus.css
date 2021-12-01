@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  
+}
+body{
+    background: url('../pics/lastou.jpg') top center no-repeat;
+}
+
+@import url(https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css);
+.card-body{
+  color: white;
+  background-color: black;
+  font-family: Verdana, sans-serif; margin:0;
+}
